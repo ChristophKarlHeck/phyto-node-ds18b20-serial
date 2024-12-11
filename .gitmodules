@@ -1,0 +1,3 @@
+[submodule "third-party/mbed-os"]
+	path = third-party/mbed-os
+	url = https://github.com/ChristophKarlHeck/mbed-os.git
